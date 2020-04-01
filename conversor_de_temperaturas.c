@@ -16,6 +16,15 @@ int main(){
         printf("[2] Fahrenheit\n");
         printf("Sua escolha: ");
         scanf("%d", &e2);
-        return 0;
+        if(e2 == 1){
+            printf("\nAgora digite uma temperatura em Celsius: ");
+            scanf("%f", &c);
+            k = c + 273;
+            printf("\n----------------------------------\n");
+            printf("Temperatura Escolhida: %.2fC\n", c);
+            printf("Temperatura em Kelvin: %.2f\n", k);
+            printf("----------------------------------\n");
+        }
     }
+    return 0;
 }
