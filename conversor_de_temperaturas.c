@@ -20,10 +20,19 @@ int main(){
             printf("\nAgora digite uma temperatura em Celsius: ");
             scanf("%f", &c);
             k = c + 273;
-            printf("\n----------------------------------\n");
-            printf("Temperatura Escolhida: %.2fC\n", c);
-            printf("Temperatura em Kelvin: %.2f\n", k);
-            printf("----------------------------------\n");
+            printf("\n-------------------------------------\n");
+            printf("Temperatura Escolhida: %.2f C\n", c);
+            printf("Temperatura em Kelvin: %.2f K\n", k);
+            printf("-------------------------------------\n");
+        }
+        else{
+            printf("\nAgora digite uma temperatura em Celsius: ");
+            scanf("%f", &c);
+            f = 1.8 * c + 32;
+            printf("\n-------------------------------------\n");
+            printf("Temperatura Escolhida: %.2f C\n", c);
+            printf("Temperatura em Fahrenheit: %.2f F\n", f);
+            printf("-------------------------------------\n");
         }
     }
     return 0;
