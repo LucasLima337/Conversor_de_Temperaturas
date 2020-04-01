@@ -4,7 +4,7 @@
  Temperaturas: Celsius, Kelvin e Fahrenheit.
 
  Possibilidades:
- °C --> °F |||
+ ||| °C --> °F |||
  °C -->  K |||
  
  °F --> °C |||
