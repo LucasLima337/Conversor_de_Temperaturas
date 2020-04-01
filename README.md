@@ -4,11 +4,11 @@
  Temperaturas: Celsius, Kelvin e Fahrenheit.
 
  Possibilidades:
- °C --> °F
- °C -->  K
+ °C --> °F |||
+ °C -->  K |||
  
- °F --> °C
- °F -->  K
+ °F --> °C |||
+ °F -->  K |||
 
- K -->  °C
- K -->  °F
+ K -->  °C |||
+ K -->  °F |||
