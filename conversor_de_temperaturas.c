@@ -35,5 +35,19 @@ int main(){
             printf("-------------------------------------\n");
         }
     }
+    else{
+        if(e1 == 2){
+            printf("\nAgora escolha para qual temperatura deseja converter:\n");
+            printf("[1] Celsius\n");
+            printf("[2] Fahrenheit\n");
+            printf("Sua escolha: ");
+            scanf("%d", &e2);
+            if(e2 == 1){
+                printf("\nAgora digite uma temperatura em Kelvin: ");
+                scanf("%f", &k);
+                
+            }
+        }
+    }
     return 0;
 }
