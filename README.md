@@ -1,4 +1,4 @@
-# Conversor de Temperaturas
+# Temperature Converter
  Programa feito em linguagem C em que o usuário escolhe qual dos Sistemas de Medição irá converter!
 
  Temperaturas: Celsius, Kelvin e Fahrenheit.
