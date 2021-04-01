@@ -1,9 +1,9 @@
 # Temperature Converter
- Programa feito em linguagem C em que o usuário escolhe qual dos Sistemas de Medição irá converter!
+ Program created using C language which the user chooses a Measurement Systems to convert in another one!
 
- Temperaturas: Celsius, Kelvin e Fahrenheit.
+ Temperatures: Celsius, Kelvin and Fahrenheit.
 
- Possibilidades:
+ Possibilities:
  ||| °C --> °F |||
  °C -->  K |||
  
